@@ -1,7 +1,4 @@
 	name: get stock price
-
-	 
-
 	on:
 
 	  schedule:
@@ -49,5 +46,6 @@
 	 
 
 	      - name: Run Python script
+
 
 	        run: python test1.py
